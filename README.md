@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Long Nguyen
 - 👀 I’m currently pursuing B.S. in computer science at CSU Fullerton.
-- 🌱 I’m currently working to become Engineer/Developer on Backend Development or Database Systems.
+- 🌱 I’m currently working to become Software Engineer/Developer.
 - 📫 You can email me at: hlong24399@gmail.com
 - 👨🏻‍💼 Actively searching for my first internship and I am eager to show myself to the industry, so that I can learn more, and I can grow more.
