@@ -3,4 +3,4 @@
 - 🌱 I’m currently working to become Software Engineer/Developer.
 - 📫 You can email me at: hlong24399@gmail.com
 - 👨🏻‍💼 Actively searching for my first internship and I am eager to show myself to the industry, so that I can learn more, and I can grow more.
-- 👨🏽‍💻 Below is my personal projects built upon knowledges that I gained over courses and self-studying. Please check them out!
+- 👨🏽‍💻 Below is my personal and course projects built upon knowledges that I gained over courses and self-studying. Please check them out!
