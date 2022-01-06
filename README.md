@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Long Nguyen
 - 👀 I’m currently pursuing B.S. in computer science at CSU Fullerton.
-- 🌱 I’m currently working to become Software/Backend Developer.
+- 🌱 I’m currently working to become .NET Web Developer.
 - 📫 You can email me at: hlong24399@gmail.com
 - 👨🏻 My LinkedIn: www.linkedin.com/in/00longnguyen00/
 - 👨🏻‍💼 Actively searching for my first internship and I am eager to show myself to the industry, so that I can learn more, and I can grow more.
