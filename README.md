@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Long Nguyen
 - 👀 I’m currently pursuing B.S. in computer science at CSU Fullerton.
-- 🌱 I’m currently working to become a Web Developer.
+- 🌱 I’m currently working to become a Developer.
 - 📫 You can email me at: hlong24399@gmail.com
 - 👨🏻 My LinkedIn: www.linkedin.com/in/00longnguyen00/
-- 👨🏻‍💼 Actively searching for my first internship and I am eager to show myself to the industry, so that I can learn more, and I can grow more.
-- 👨🏽‍💻 Below is my personal and course projects built upon knowledges that I gained over courses and self-studying. Please check them out!
+- 👨🏻‍💼 Actively searching for my first position and I am eager to show myself to the industry, so that I can put my values into solving actual business pain points and techinal needs.
+- 👨🏽‍💻 Below is my personal and course projects built upon knowledges that I gained over courses and self-studying. Feel free to look at them!
